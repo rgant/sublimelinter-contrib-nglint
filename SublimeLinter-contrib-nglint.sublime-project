@@ -1,0 +1,16 @@
+{
+    "folders":
+    [
+        {
+            "folder_exclude_patterns":
+            [
+                ".cache",
+                ".mypy_cache",
+                ".pytest_cache",
+                "__pycache__",
+                "node_modules"
+            ],
+            "path": "."
+        }
+    ]
+}

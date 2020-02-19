@@ -1,0 +1,26 @@
+{
+  "name": "sublimelinter-contrib-nglint",
+  "version": "0.1.0",
+  "description": "Local Development/Testing environment for SublimeLinter-contrib-nglint",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgant/SublimeLinter-contrib-nglint.git"
+  },
+  "author": {
+    "name": "J Rob Gant",
+    "email": "rgant@alum.wpi.edu",
+    "url": "https://rob.gant.ninja/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgant/SublimeLinter-contrib-nglint/issues"
+  },
+  "homepage": "https://github.com/rgant/SublimeLinter-contrib-nglint#readme",
+  "dependencies": {
+    "@angular/cli": "^9.0.2"
+  }
+}
