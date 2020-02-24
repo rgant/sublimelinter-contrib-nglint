@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/rgant/SublimeLinter-contrib-nglint#readme",
   "dependencies": {
-    "@angular/cli": "^9.0.2"
+    "@angular/cli": "^9.0.3"
   }
 }
